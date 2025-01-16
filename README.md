@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamrahultawar" target="blank"><img src="https://img.shields.io/twitter/follow/iamrahultawar?logo=twitter&style=for-the-badge" alt="iamrahultawar" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Data Structures & Algorithms, Java Web Development**
+- 🌱 I’m currently learning **Data Structures & Algorithm and Java Web Development**
 
 - 📫 How to reach me **iamrahultawar@gmail.com**
 
