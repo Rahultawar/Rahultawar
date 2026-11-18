@@ -11,7 +11,7 @@ I work across frontend, backend, Generative AI, and Machine Learning — turning
 - **Backend:** FastAPI, LangChain, LangGraph, WebSocket, Microservices
 - **AI/ML:** PyTorch, Scikit-learn, OpenCV, Hugging Face, NumPy, Pandas
 - **Generative AI & LLMs:** RAG, LangChain, LangGraph, LLM APIs, Prompt Engineering, Embeddings
-- **Databases:** PostgreSQL, MySQL, Oracle, ORM
+- **Databases:** PostgreSQL, MySQL, Oracle, ORM, Redis
 - **Tools:** Git, GitHub, Docker, Postman, JMeter, CI/CD
  
 ## 💡 What I Build
